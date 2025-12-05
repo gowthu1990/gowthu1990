@@ -13,3 +13,8 @@ class SeniorDataArchitect:
             "always": "Refactoring bad code & learning best practices"
         }
 ```
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true" alt="Your Name's Github Stats" />
+</p>
