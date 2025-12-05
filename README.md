@@ -1,4 +1,4 @@
-<code>
+```python
 class SeniorDataArchitect:
     def __init__(self):
         self.name = "Sai Gowtham Badvity"
@@ -12,4 +12,4 @@ class SeniorDataArchitect:
             "evening": "Mentoring the next generation of Engineers",
             "always": "Refactoring bad code & learning best practices"
         }
-</code>
+```
