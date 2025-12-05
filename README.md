@@ -17,7 +17,7 @@ class SeniorDataArchitect:
 ```
 
 
-### My Architecture Philosophy
+### My Architecture Philosophy 🏛️
 
 ```mermaid
 graph TD
@@ -31,5 +31,5 @@ graph TD
     style D fill:#e1f5fe,stroke:#01579b,stroke-width:2px,color:black
 ```
 
-### My GitHub Account Stats
+### My GitHub Account Stats ⚡
 ![My GitHub Account Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gowthu1990?cardType=github&theme=radical)
