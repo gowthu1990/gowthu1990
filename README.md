@@ -15,10 +15,16 @@ class SeniorDataArchitect:
 ```
 
 
+### My Architecture Philosophy
+
+```mermaid
 graph TD
     A[Raw Data] -->|Ingest| B(Data Lake)
     B -->|Spark/Python| C{Transformation}
     C -->|Clean| D[Data Warehouse]
     C -->|Error| E[Quarantine]
     D -->|Serve| F[BI & Analytics]
-    style C fill:#f9f,stroke:#333,stroke-width:4px
+    style C fill:#f9f,stroke:#333,stroke-width:2px,color:black
+    style B fill:#e1f5fe,stroke:#01579b,stroke-width:2px,color:black
+    style D fill:#e1f5fe,stroke:#01579b,stroke-width:2px,color:black
+```
