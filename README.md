@@ -13,3 +13,12 @@ class SeniorDataArchitect:
             "always": "Refactoring bad code & learning best practices"
         }
 ```
+
+
+graph TD
+    A[Raw Data] -->|Ingest| B(Data Lake)
+    B -->|Spark/Python| C{Transformation}
+    C -->|Clean| D[Data Warehouse]
+    C -->|Error| E[Quarantine]
+    D -->|Serve| F[BI & Analytics]
+    style C fill:#f9f,stroke:#333,stroke-width:4px
