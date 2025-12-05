@@ -16,5 +16,5 @@ class SeniorDataArchitect:
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true" alt="Your Name's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gowthu1990&show_icons=true&theme=radical&hide_border=true" alt="My Github Stats" />
 </p>
