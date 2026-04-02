@@ -1,16 +1,16 @@
 ### About Me 👋
 
 ```python
-class SeniorDataArchitect:
+class SeniorSolutionArchitect:
     def __init__(self):
         self.name = "Sai Gowtham Badvity"
         self.experience = "14.5 Years"
-        self.current_focus = ["Data Engineering", "System Design", "Mentoring"]
+        self.current_focus = ["Google Cloud Platform", "Data Engineering", "System Design", "Mentoring"]
         self.mission = "Bridging the gap between Academic Theory and Industry Reality."
 
     def get_daily_routine(self):
         return {
-            "morning": "Architecting Scalable Data Pipelines",
+            "morning": "Architecting Scalable Data Pipelines and Cloud Solutions",
             "evening": "Mentoring the next generation of Engineers",
             "always": "Refactoring bad code & learning best practices"
         }
