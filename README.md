@@ -1,7 +1,7 @@
 ### About Me 👋
 
 ```python
-class SeniorSolutionArchitect:
+class SeniorSolutionsArchitect:
     def __init__(self):
         self.name = "Sai Gowtham Badvity"
         self.experience = "14.5 Years"
